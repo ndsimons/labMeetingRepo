@@ -6,12 +6,21 @@ updating readme
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
-adding my name here
 =======
-<<<<<<< HEAD
+# ryan
+
+Noah
+
+JENNY!!!!!!!!
+
+>>>>>>> af8c70f2a323f445718cca731e3e5c17e50a7b38
+adding my name here
+
 jordan
+<<<<<<< HEAD
 >>>>>>> 94d33aa079d662ed8fee248e2790e52f0e71a659
 =======
 
@@ -23,3 +32,13 @@ JENNY!!!!!!!!
 >>>>>>> 94d33aa079d662ed8fee248e2790e52f0e71a659
 
 Hi! -Arielle
+=======
+
+JENNY!!!!!!!!
+
+Shuyu
+
+Rachel
+
+Elaine
+>>>>>>> af8c70f2a323f445718cca731e3e5c17e50a7b38

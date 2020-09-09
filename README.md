@@ -6,7 +6,7 @@ updating readme
 
 <<<<<<< HEAD
 <<<<<<< HEAD
-Hi! -Arielle
+
 =======
 adding my name here
 =======
@@ -21,3 +21,5 @@ JENNY!!!!!!!!
 =======
 >>>>>>> 37dffb9b644b25cc94dbc8b7abcd7f9504a50433
 >>>>>>> 94d33aa079d662ed8fee248e2790e52f0e71a659
+
+Hi! -Arielle

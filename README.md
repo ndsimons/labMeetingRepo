@@ -5,10 +5,14 @@ This is the readme
 updating readme
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Noah
 
 JENNY!!!!!!!!
 
+=======
+adding my name here
+>>>>>>> 94d33aa079d662ed8fee248e2790e52f0e71a659
 =======
 <<<<<<< HEAD
 jordan
